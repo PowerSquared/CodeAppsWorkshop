@@ -1,7 +1,5 @@
 # Module 04 — Building & Iterating
 
-**13:30 – 14:30 · 60 minutes**
-
 In this module you will connect the app's hard-coded mock data to your real Dataverse tables and iterate on the app with Kilo Code.
 
 ## Prompts

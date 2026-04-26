@@ -1,7 +1,5 @@
 # Module 02 — Architecture & AI-Assisted Planning
 
-**10:30 – 11:30 · 60 minutes**
-
 In this module you will use Kilo Code to scaffold a new Code App and then use the PRD and design contract to lay out the app's pages and components with hard-coded data.
 
 ## Prompts

@@ -1,7 +1,5 @@
 # Module 03 — Data & Connectors
 
-**11:40 – 12:30 · 50 minutes**
-
 In this module you will design a data model for the app, create the Dataverse tables using the PAC CLI, and seed them with sample data.
 
 ## Prompts

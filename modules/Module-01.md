@@ -22,7 +22,27 @@ git clone https://github.com/PowerSquared/code-apps-plugin-custom C:\code\code-a
 code C:\code\code-apps-plugin-custom
 ```
 
-### 3. Verify your setup
+### 3. Connect to your developer environment
+
+Open the Extensions panel (`Ctrl+Shift+X`), search for **Power Platform Tools**, and install it.
+
+Once installed, sign in with your **@youkay.com** account and select the developer environment we have set up for you.
+
+Run the following to confirm you are connected to the right environment:
+
+```bash
+pac env who
+```
+
+### 4. Install the Kilo Code extension
+
+Open the Extensions panel in VS Code (`Ctrl+Shift+X`), search for **Kilo Code**, and install it.
+
+### 5. Enter the API key
+
+Open Kilo Code, enter the **Moonshot API key** provided by us, and set the model to **Kimi K2.6**.
+
+### 6. Verify your setup
 
 Run the following in a VS Code terminal to confirm everything is installed:
 
