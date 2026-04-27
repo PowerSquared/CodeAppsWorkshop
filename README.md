@@ -17,7 +17,7 @@ Make sure all of these are set up **before the workshop begins**.
 1. **Install Visual Studio Code** — [code.visualstudio.com](https://code.visualstudio.com/)
 2. **Install Git** — [git-scm.com/downloads](https://git-scm.com/downloads)
 3. **Install Node.js LTS (v20+)** — [nodejs.org](https://nodejs.org/) (download the LTS version)
-4. **Install the PAC CLI** — [learn.microsoft.com/en-us/power-platform/developer/cli/introduction](https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction)
+4. **Install the Power Platform Tools extension in VS Code** — this includes the PAC CLI. Open VS Code, go to the Extensions panel (`Ctrl+Shift+X`), and search for **Power Platform Tools**.
 
 ## Agenda
 
