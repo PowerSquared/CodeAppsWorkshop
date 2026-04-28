@@ -15,7 +15,7 @@ Review the ERD that Kilo Code produces. Make any adjustments before proceeding.
 ### 2. Create the Dataverse tables and seed them
 
 ```
-Using docs/Dataverse-ERD.md create the required Dataverse tables, columns and relationships and seed the asset register with 20 items. Make sure you add both tables using the CLI.
+Using existing the ERD in docs to understand the data structure, create the Dataverse table using the PowerShell script at @docs/scripts/Create-AssetTable.ps1 - and then run the PowerShell script at @docs/scripts/Seed-Assets.ps1 to seed the asset register with 20 items. Make sure you add both tables using the add-dataverse skill.
 ```
 
 > **Checkpoint:** Go to the [Maker Portal](https://make.powerapps.com) and confirm that your assets table exists and contains data before continuing.
